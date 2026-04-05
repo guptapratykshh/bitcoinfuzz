@@ -1,0 +1,8 @@
+[versions]
+bitcoins = "1.9.9"
+scala = "2.13.12"
+
+[libraries]
+
+[plugins]
+scala = { id = "scala", version = "" }
